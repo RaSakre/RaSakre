@@ -4,7 +4,7 @@
 
 **Мои соц.сети:** 
 **Telegram: https://t.me/sakre_e**
-**[VK](https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/VK.svg):https://vk.com/sakre_e**
+**![VK](https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/VK.svg):https://vk.com/sakre_e**
 
 
 <!--
